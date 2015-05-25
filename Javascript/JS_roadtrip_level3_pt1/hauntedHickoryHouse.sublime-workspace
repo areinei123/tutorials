@@ -1,1 +1,967 @@
-{}
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"leag",
+				"league_password"
+			],
+			[
+				"la",
+				"lastname"
+			],
+			[
+				"total_",
+				"total_gravity"
+			],
+			[
+				"total",
+				"total_gravity"
+			],
+			[
+				"test-",
+				"test-font1"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"hom",
+				"home-bttn-hover"
+			],
+			[
+				"mar",
+				"margin-right"
+			],
+			[
+				"margin",
+				"margin-left"
+			],
+			[
+				"inv",
+				"individual_ibu_level"
+			],
+			[
+				"gravity",
+				"gravity"
+			],
+			[
+				"ingreident",
+				"ingredient_id"
+			],
+			[
+				"se",
+				"self"
+			],
+			[
+				"ingreidnt",
+				"ingredient_id"
+			],
+			[
+				"extract_potential",
+				"extract_potential_to_gu"
+			],
+			[
+				"delete",
+				"Delete"
+			],
+			[
+				"bo",
+				"border-style"
+			],
+			[
+				"recipe",
+				"recipe_list"
+			],
+			[
+				"list_",
+				"list_ingredient_id"
+			],
+			[
+				"in",
+				"ingredient_id"
+			],
+			[
+				"In",
+				"ingredients_id"
+			],
+			[
+				"recipe_",
+				"recipe_id"
+			],
+			[
+				"am",
+				"amount"
+			],
+			[
+				"su",
+				"Sugars"
+			],
+			[
+				"g",
+				"Grain"
+			],
+			[
+				"sl",
+				"Slovenia"
+			],
+			[
+				"j",
+				"Japan"
+			],
+			[
+				"En",
+				"England"
+			],
+			[
+				"do",
+				"do"
+			],
+			[
+				"categor",
+				"category_name"
+			],
+			[
+				"ingre",
+				"receipes_ingredients"
+			],
+			[
+				"ca",
+				"Category"
+			],
+			[
+				"rec",
+				"recipes_path"
+			],
+			[
+				"pa",
+				"palindrome"
+			],
+			[
+				"a",
+				"attenuation"
+			],
+			[
+				"Ale",
+				"Ale"
+			],
+			[
+				"A",
+				"Ale"
+			],
+			[
+				"al",
+				"alpha_acid"
+			],
+			[
+				"Gra",
+				"Grain"
+			],
+			[
+				"Gr",
+				"Grits"
+			],
+			[
+				"cr",
+				"created"
+			],
+			[
+				"c",
+				"cities"
+			],
+			[
+				"G",
+				"Grain"
+			],
+			[
+				"cre",
+				"create"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/Users/frederickchapman/Desktop/tutorials/Javascript/js_roadtrip_pt3_level2/obstacleWarning.js",
+			"settings":
+			{
+				"buffer_size": 208,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/frederickchapman/Desktop/tutorials/Javascript/js_roadtrip_pt3_level2/obstacleWarning2.js",
+			"settings":
+			{
+				"buffer_size": 626,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/frederickchapman/Desktop/tutorials/Javascript/js_roadtrip_pt3_level2/obstacleWarning3.js",
+			"settings":
+			{
+				"buffer_size": 524,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/frederickchapman/Desktop/tutorials/Javascript/js_roadtrip_pt3_level2/obstacleWarning4.js",
+			"settings":
+			{
+				"buffer_size": 723,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/frederickchapman/Desktop/tutorials/Javascript/JS_roadtrip_level3_pt1/hauntedHickoryHouse.js",
+		"/Users/frederickchapman/Desktop/tutorials/Javascript/JS_roadtrip_level3_pt1/nameCombiner.js",
+		"/Users/frederickchapman/Desktop/tutorials/Javascript/JS_roadtrip_level3_pt1/poplarPuzzlers.js",
+		"/Users/frederickchapman/Desktop/tutorials/Javascript/JS_roadtrip_level3_pt1/ashAdventure.js",
+		"/Users/frederickchapman/Desktop/tutorials/Javascript/JS_roadtrip_level3_pt1/applyAndEmpty.js",
+		"/Users/frederickchapman/Desktop/tutorials/Javascript/JS_roadtrip_level3_pt1/applyAndEmpty.ja",
+		"/Users/frederickchapman/Desktop/tutorials/Javascript/JS_roadtrip_pt4/pav_test.rb",
+		"/Users/frederickchapman/Desktop/tutorials/Javascript/JS_roadtrip_pt4/facebook_test.rb",
+		"/Users/frederickchapman/Desktop/Shockathon/config/initializers/faceBook.js",
+		"/Users/frederickchapman/Desktop/tutorials/Javascript/JS_roadtrip_pt4/uniqueMath.js",
+		"/Users/frederickchapman/Desktop/tutorials/Javascript/JS_roadtrip_pt4/maxOf2.js",
+		"/Users/frederickchapman/Desktop/tutorials/Javascript/JS_roadtrip_pt4/feedPerRanger.js",
+		"/Users/frederickchapman/Desktop/tutorials/Javascript/JS_roadtrip_pt4/changePowerTotal.js",
+		"/Users/frederickchapman/Desktop/tutorials/Javascript/JS_roadtrip_pt2/userProfile.js",
+		"/Users/frederickchapman/Desktop/tutorials/Javascript/JS_roadtrip_pt2/hooverDam2.js",
+		"/Users/frederickchapman/Desktop/tutorials/Javascript/JS_roadtrip_pt2/deathValley4.js",
+		"/Users/frederickchapman/Desktop/tutorials/Javascript/JS_roadtrip_pt2/countdown.js",
+		"/Users/frederickchapman/Desktop/tutorials/Javascript/JS_roadtrip_pt2/deathValley.js",
+		"/Users/frederickchapman/Desktop/tutorials/Javascript/JS_roadtrip_pt2/countdown2.js",
+		"/Users/frederickchapman/Desktop/tutorials/Javascript/JS_roadtrip_pt2/deathValley2.js",
+		"/Users/frederickchapman/Desktop/tutorials/Javascript/JS_roadtrip_pt2/hooverDam.js",
+		"/Users/frederickchapman/Desktop/tutorials/Javascript/JS_roadtrip_pt2/countdown3.js",
+		"/Users/frederickchapman/Desktop/tutorials/Javascript/JS_roadtrip_pt2/badlands.js",
+		"/Users/frederickchapman/Desktop/tutorials/Javascript/JS_roadtrip_pt2/deathValley3.js",
+		"/Users/frederickchapman/Desktop/FFL/FFL/app/views/leagues/oldFaithful.js",
+		"/Users/frederickchapman/Desktop/FFL/FFL/app/views/leagues/index.html",
+		"/Users/frederickchapman/Desktop/FFL/FFL/spec/features/user_signs_up_spec.rb",
+		"/Users/frederickchapman/Desktop/FFL/FFL/spec/features/user_signs_in_spec.rb",
+		"/Users/frederickchapman/Desktop/FFL/FFL/config/initializers/devise.rb",
+		"/Users/frederickchapman/Desktop/FFL/FFL/spec/features/user_views_homepage_spec.rb",
+		"/Users/frederickchapman/Desktop/brau_meister/app/views/categories/index.html.erb",
+		"/Users/frederickchapman/Desktop/brau_meister/config/routes.rb",
+		"/Users/frederickchapman/Desktop/brau_meister/db/schema.rb",
+		"/Users/frederickchapman/Desktop/brau_meister/app/views/recipes/new.html.erb",
+		"/Users/frederickchapman/Desktop/brau_meister/app/controllers/recipes_controller.rb",
+		"/Users/frederickchapman/Desktop/brau_meister/db/migrate/20150327172950_devise_create_users.rb",
+		"/Users/frederickchapman/Desktop/brau_meister/db/migrate/20150327192300_create_recipes.rb",
+		"/Users/frederickchapman/Desktop/brau_meister/db/migrate/20150328164631_ingredient.rb",
+		"/Users/frederickchapman/Desktop/brau_meister/db/migrate/20150424150837_change_ingredients_main_class_sub_type.rb",
+		"/Users/frederickchapman/Desktop/brau_meister/db/migrate/20150411155847_add_categories.rb",
+		"/Users/frederickchapman/Desktop/brau_meister/db/migrate/20150411155419_add_recipes_ingredients_join_table.rb",
+		"/Users/frederickchapman/Desktop/FFL/FFL/spec/support/factory_girl.rb",
+		"/Users/frederickchapman/Desktop/FFL/FFL/config/database.yml",
+		"/Users/frederickchapman/Desktop/FFL/FFL/app/models/user.rb",
+		"/Users/frederickchapman/Desktop/FFL/FFL/app/models/player_stats.rb",
+		"/Users/frederickchapman/Desktop/FFL/FFL/app/models/player_loader.rb",
+		"/Users/frederickchapman/Desktop/FFL/FFL/app/controllers/users_controller.rb",
+		"/Users/frederickchapman/Desktop/FFL/FFL/app/controllers/application_controller.rb",
+		"/Users/frederickchapman/Desktop/FFL/FFL/app/views/homes/index.html.erb",
+		"/Users/frederickchapman/Desktop/FFL/FFL/app/views/leagues/new.html.erb",
+		"/Users/frederickchapman/Desktop/FFL/FFL/app/controllers/leagues_controller.rb",
+		"/Users/frederickchapman/Desktop/FFL/FFL/app/views/devise/registrations/new.html.erb",
+		"/Users/frederickchapman/Desktop/FFL/FFL/spec/models/user_spec.rb",
+		"/Users/frederickchapman/Desktop/FFL/FFL/app/views/defenses/index.html.erb",
+		"/Users/frederickchapman/Desktop/FFL/FFL/app/views/kickers/index.html.erb",
+		"/Users/frederickchapman/Desktop/FFL/FFL/app/views/quarter_backs/index.html.erb",
+		"/Users/frederickchapman/Desktop/FFL/FFL/app/views/running_backs/index.html.erb",
+		"/Users/frederickchapman/Desktop/FFL/FFL/app/views/tight_ends/index.html.erb",
+		"/Users/frederickchapman/Desktop/FFL/FFL/app/views/wide_receivers/index.html.erb",
+		"/Users/frederickchapman/Desktop/FFL/FFL/app/models/defense.rb",
+		"/Users/frederickchapman/Desktop/FFL/FFL/app/models/kicker.rb",
+		"/Users/frederickchapman/Desktop/FFL/FFL/app/models/quarter_back.rb",
+		"/Users/frederickchapman/Desktop/FFL/FFL/app/models/running_back.rb",
+		"/Users/frederickchapman/Desktop/FFL/FFL/app/models/tight_end.rb",
+		"/Users/frederickchapman/Desktop/FFL/FFL/app/models/wide_receiver.rb",
+		"/Users/frederickchapman/Desktop/FFL/FFL/app/models/team.rb",
+		"/Users/frederickchapman/Desktop/FFL/FFL/config/routes.rb",
+		"/Users/frederickchapman/Desktop/FFL/FFL/app/models/team_defense.rb",
+		"/Users/frederickchapman/Desktop/FFL/FFL/app/models/team_kicker.rb",
+		"/Users/frederickchapman/Desktop/FFL/FFL/app/models/team_quarter_back.rb",
+		"/Users/frederickchapman/Desktop/FFL/FFL/app/models/team_running_back.rb",
+		"/Users/frederickchapman/Desktop/FFL/FFL/app/models/team_tight_end.rb",
+		"/Users/frederickchapman/Desktop/FFL/FFL/app/models/team_wide_receiver.rb",
+		"/Users/frederickchapman/Desktop/FFL/FFL/.env",
+		"/Users/frederickchapman/Desktop/FFL/FFL/.gitignore",
+		"/Users/frederickchapman/Desktop/FFL/FFL/db/schema.rb",
+		"/Users/frederickchapman/Desktop/FFL/FFL/db/migrate/20150430205015_add_team_k.rb",
+		"/Users/frederickchapman/Desktop/FFL/FFL/Gemfile",
+		"/Users/frederickchapman/Desktop/FFL/FFL/README.rdoc",
+		"/Users/frederickchapman/Desktop/FFL/FFL/.hound.yml",
+		"/Users/frederickchapman/Desktop/FFL/FFL/.travis.yml",
+		"/Users/frederickchapman/Desktop/FFL/FFL/app/views/devise/sessions/new.html.erb",
+		"/Users/frederickchapman/Desktop/FFL/FFL/spec/features/user_creates_a_league_spec.rb",
+		"/Users/frederickchapman/Desktop/FFL/FFL/spec/features/user_joins_an_existing_league_spec.rb",
+		"/Users/frederickchapman/Desktop/FFL/FFL/spec/features/user_views_lineup_spec.rb",
+		"/Users/frederickchapman/Desktop/FFL/FFL/spec/features/commissioner_has_all_the_power_spec.rb",
+		"/Users/frederickchapman/Desktop/FFL/FFL/app/controllers/homes_controller.rb",
+		"/Users/frederickchapman/Desktop/FFL/FFL/db/migrate/20150430193509_devise_create_users.rb",
+		"/Users/frederickchapman/Desktop/FFL/FFL/db/migrate/20150430203046_add_team.rb",
+		"/Users/frederickchapman/Desktop/FFL/FFL/db/migrate/20150430204119_add_qb.rb",
+		"/Users/frederickchapman/Desktop/FFL/FFL/db/migrate/20150430204130_add_rb.rb",
+		"/Users/frederickchapman/Desktop/FFL/FFL/db/migrate/20150430204233_add_te.rb",
+		"/Users/frederickchapman/Desktop/FFL/FFL/db/migrate/20150430204243_add_wr.rb",
+		"/Users/frederickchapman/Desktop/FFL/FFL/db/migrate/20150430204253_add_k.rb",
+		"/Users/frederickchapman/Desktop/FFL/FFL/db/migrate/20150430204303_add_defense.rb",
+		"/Users/frederickchapman/Desktop/FFL/FFL/db/migrate/20150430204449_add_team_qb.rb",
+		"/Users/frederickchapman/Desktop/FFL/FFL/db/migrate/20150430204512_add_team_rb.rb",
+		"/Users/frederickchapman/Desktop/FFL/FFL/db/migrate/20150430204941_add_team_te.rb",
+		"/Users/frederickchapman/Desktop/FFL/FFL/db/migrate/20150430204950_add_team_wr.rb",
+		"/Users/frederickchapman/Desktop/FFL/FFL/db/migrate/20150430205031_add_team_defense.rb",
+		"/Users/frederickchapman/Desktop/FFL/FFL/db/migrate/20150430205042_add_league.rb",
+		"/Users/frederickchapman/Desktop/brau_meister/app/views/lists/new.html.erb",
+		"/Users/frederickchapman/Desktop/brau_meister/app/controllers/lists_controller.rb",
+		"/Users/frederickchapman/Desktop/brau_meister/app/models/recipe.rb",
+		"/Users/frederickchapman/Desktop/brau_meister/app/models/list.rb",
+		"/Users/frederickchapman/Desktop/brau_meister/app/models/ingredient.rb",
+		"/Users/frederickchapman/Desktop/brau_meister/db/seeds.rb",
+		"/Users/frederickchapman/Desktop/brau_meister/coverage/.resultset.json",
+		"/Users/frederickchapman/Desktop/brau_meister/spec/models/lists_spec.rb",
+		"/Users/frederickchapman/Desktop/brau_meister/spec/models/ingredient_spec.rb",
+		"/Users/frederickchapman/Desktop/brau_meister/spec/models/recipe_spec.rb",
+		"/Users/frederickchapman/Desktop/brau_meister/README.rdoc",
+		"/Users/frederickchapman/Desktop/brau_meister/app/assets/stylesheets/style.scss",
+		"/Users/frederickchapman/Desktop/brau_meister/app/views/lists/_grain_form.html.erb",
+		"/Users/frederickchapman/Desktop/brau_meister/app/views/lists/_yeast_form.html.erb",
+		"/Users/frederickchapman/Desktop/brau_meister/app/views/lists/_hop_form.html.erb",
+		"/Users/frederickchapman/Desktop/brau_meister/app/models/total_gravity.rb",
+		"/Users/frederickchapman/Desktop/brau_meister/app/controllers/ingredients_controller.rb",
+		"/Users/frederickchapman/Desktop/brau_meister/app/views/layouts/application.html.erb",
+		"/Users/frederickchapman/Desktop/brau_meister/app/assets/javascripts/application.js",
+		"/Users/frederickchapman/Desktop/brau_meister/app/views/recipes/index.html.erb",
+		"/Users/frederickchapman/Desktop/brau_meister/spec/features/user_deletes_a_recipe_spec.rb",
+		"/Users/frederickchapman/Desktop/brau_meister/spec/features/makes_a_recipe_spec.rb",
+		"/Users/frederickchapman/Desktop/brau_meister/spec/support/factory_girl.rb",
+		"/Users/frederickchapman/Desktop/brau_meister/spec/features/user_deletes_recipe_item_spec.rb",
+		"/Users/frederickchapman/Desktop/brau_meister/stuff.txt",
+		"/Users/frederickchapman/Desktop/brau_meister/config/puma.rb",
+		"/Users/frederickchapman/Desktop/brau_meister/Procfile"
+	],
+	"find":
+	{
+		"height": 26.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"username",
+			"scenario",
+			"require",
+			"username",
+			"defense",
+			"TeamRunningBack",
+			"wunn",
+			"defense",
+			"<YOUR_REPO_NAME>",
+			"YOUR_GITHUB_USERNAME",
+			"username",
+			"email",
+			"table",
+			"rush_yards",
+			"integer",
+			"interceptions",
+			"nil, ",
+			"  ",
+			" extract_potential: 1.027, alpha_acid: nil, \n attenuation: nil, main_class: \"Grain\")",
+			"attenuation",
+			"alpha_acid",
+			"extract_potential",
+			"\"Hop\"",
+			"\n    ",
+			"    binding.pry",
+			"binding.pry",
+			"1337",
+			"individual",
+			"main_class",
+			"main_class:",
+			")",
+			"type_class",
+			"sub_class",
+			"total_gravity",
+			"type_class",
+			" %>",
+			"<% ",
+			" %>",
+			"<% ",
+			" %>",
+			"<% ",
+			")",
+			"main_class:",
+			"attenuation: nil",
+			"type_class",
+			"foundation.min.css",
+			"main-font1",
+			"test",
+			"main",
+			"test-font1",
+			"$test-font1",
+			"Berkshire Swash",
+			"boil_time",
+			"flash",
+			"6",
+			"<div class=\"small-6 columns\">",
+			"<div class=\"row\">",
+			"<% end %>",
+			"%>",
+			" %>",
+			"%>",
+			"label",
+			"columns",
+			"        <div class=\"small-2 columns\">\n",
+			"<%= f.label \"Boil Time (minutes)\" %>",
+			"oz",
+			"6",
+			"in ounces",
+			"typically minutes til end of boil",
+			"%>",
+			"</div>",
+			"%>",
+			"<div class=\"small-6 columns\">",
+			"<div class=\"row\">",
+			"lbs.",
+			"in pounds",
+			"large",
+			"%>\n",
+			"\">\n",
+			"manifest",
+			".alert-box",
+			"    recipe = FactoryGirl.create(:recipe)\n",
+			"    user = FactoryGirl.create(:user)\n",
+			"target_total_gravity_units",
+			"load Rails.root + \"db/seeds.rb\" ",
+			"      binding.pry\n",
+			"%>",
+			"<%",
+			"percent",
+			" {",
+			"left",
+			"ruby",
+			"ingredient",
+			"white",
+			"h5",
+			"h2",
+			"obj",
+			"button",
+			"recipe",
+			"'",
+			"  }",
+			"center",
+			"list",
+			"Ingredient",
+			"ingredient",
+			"Ingredient",
+			"ingredient",
+			"Pilsner (2",
+			"Pilsner (2 Row)\n",
+			"Pilsner(2 Row)\n",
+			"Pilsner (2 Row)\n",
+			"name",
+			"<% end %>",
+			"pounds",
+			"hop_amount",
+			"t",
+			"grains",
+			"<%= t.label :amount %>\n      <%= t.text_field :amount %> in oz.",
+			"recipe_ingredient",
+			"ingredient_id",
+			"</div>",
+			"ingredient_id",
+			"</div>",
+			"h4",
+			"It",
+			"Wild",
+			"recipe.name",
+			"content"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"sub_type"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 3,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/Users/frederickchapman/Desktop/tutorials/Javascript/js_roadtrip_pt3_level2/obstacleWarning.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 208,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								208,
+								208
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/Users/frederickchapman/Desktop/tutorials/Javascript/js_roadtrip_pt3_level2/obstacleWarning2.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 626,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								626,
+								626
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/Users/frederickchapman/Desktop/tutorials/Javascript/js_roadtrip_pt3_level2/obstacleWarning3.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 524,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								524,
+								524
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/Users/frederickchapman/Desktop/tutorials/Javascript/js_roadtrip_pt3_level2/obstacleWarning4.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 723,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								723,
+								723
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "hauntedHickoryHouse.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"schema",
+				"FFL/db/schema.rb"
+			],
+			[
+				"new",
+				"FFL/app/views/leagues/new.html.erb"
+			],
+			[
+				"user",
+				"FFL/app/models/user.rb"
+			],
+			[
+				"user_si",
+				"FFL/spec/features/user_signs_up_spec.rb"
+			],
+			[
+				"routes",
+				"FFL/config/routes.rb"
+			],
+			[
+				"recipe",
+				"app/models/recipe.rb"
+			],
+			[
+				"index",
+				"app/views/homes/index.html.erb"
+			],
+			[
+				"recipes",
+				"app/controllers/recipes_controller.rb"
+			],
+			[
+				"leag",
+				"app/controllers/leagues_controller.rb"
+			],
+			[
+				"sche",
+				"db/schema.rb"
+			],
+			[
+				"gem",
+				"Gemfile"
+			],
+			[
+				"read",
+				"README.rdoc"
+			],
+			[
+				"gitig",
+				".gitignore"
+			],
+			[
+				"app",
+				"app/controllers/application_controller.rb"
+			],
+			[
+				"homes",
+				"app/views/homes/index.html.erb"
+			],
+			[
+				"gemfile",
+				"Gemfile"
+			],
+			[
+				"seeds",
+				"db/seeds.rb"
+			],
+			[
+				"coverage",
+				"coverage/.resultset.json"
+			],
+			[
+				"st",
+				"app/assets/stylesheets/style.scss"
+			],
+			[
+				"list",
+				"app/models/list.rb"
+			],
+			[
+				"seed",
+				"db/seeds.rb"
+			],
+			[
+				"_",
+				"app/views/lists/_hop_form.html.erb"
+			],
+			[
+				"_hop",
+				"app/views/lists/_hop_form.html.erb"
+			],
+			[
+				"ingredient",
+				"app/models/ingredient.rb"
+			],
+			[
+				"lists",
+				"app/controllers/lists_controller.rb"
+			],
+			[
+				"listcon",
+				"app/controllers/lists_controller.rb"
+			],
+			[
+				"styl",
+				"app/assets/stylesheets/style.scss"
+			],
+			[
+				"lay",
+				"app/views/layouts/application.html.erb"
+			],
+			[
+				"delete",
+				"spec/features/user_deletes_a_recipe_spec.rb"
+			],
+			[
+				"make",
+				"spec/features/makes_a_recipe_spec.rb"
+			],
+			[
+				"hop",
+				"app/views/lists/_hop_form.html.erb"
+			],
+			[
+				"lsit",
+				"app/controllers/lists_controller.rb"
+			],
+			[
+				"sty",
+				"app/assets/stylesheets/style.scss"
+			],
+			[
+				"makes",
+				"spec/features/makes_a_recipe_spec.rb"
+			],
+			[
+				"travis",
+				".travis.yml"
+			],
+			[
+				"rails",
+				"spec/rails_helper.rb"
+			],
+			[
+				"rails_hlp",
+				"spec/rails_helper.rb"
+			],
+			[
+				"ingredients",
+				"app/controllers/ingredients_controller.rb"
+			],
+			[
+				"route",
+				"config/routes.rb"
+			],
+			[
+				"mak",
+				"spec/features/makes_a_recipe_spec.rb"
+			],
+			[
+				"reciep",
+				"app/controllers/recipes_controller.rb"
+			],
+			[
+				"viewr",
+				"spec/features/views_recipe_maker_page_spec.rb"
+			],
+			[
+				"show",
+				"app/views/recipes/show.html.erb"
+			],
+			[
+				"rec",
+				"app/controllers/recipes_controller.rb"
+			],
+			[
+				"ingre",
+				"app/controllers/ingredients_controller.rb"
+			],
+			[
+				"views_",
+				"spec/features/views_recipe_maker_page_spec.rb"
+			],
+			[
+				"spec",
+				"spec/spec_helper.rb"
+			],
+			[
+				"trai",
+				".travis.yml"
+			],
+			[
+				"view_",
+				"spec/features/views_recipe_maker_page_spec.rb"
+			],
+			[
+				"git",
+				".gitignore"
+			],
+			[
+				"grain",
+				"app/views/recipes/_grain_form.html.erb"
+			],
+			[
+				"yeast",
+				"app/views/recipes/_yeast_form.html.erb"
+			],
+			[
+				"main",
+				"app/assets/stylesheets/main.scss"
+			],
+			[
+				"tutorial_contr",
+				"app/controllers/tutorials_controller.rb"
+			],
+			[
+				"",
+				"Gemfile"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 171.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
