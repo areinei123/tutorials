@@ -66,3 +66,14 @@ $(document).ready(function() {
     $("#nights").val(7);
   });
 });
+
+$(document).ready(function() {
+  $(".see-photos").on("click", function() {
+  });
+});
+
+$(document).ready(function() {
+  $(".see-photos").on("click", function() {
+    $(this).closest(".tour").find(".photos").slideToggle();
+  });
+});
