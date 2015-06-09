@@ -7,13 +7,12 @@ var App = Ember.Application.create({
   LOG_TRANSITIONS: true
 });
 
-Ember.MODEL_FACTORY_INJECTIONS = true;
-
-App = Ember.Application.extend({
-  modulePrefix: config.modulePrefix,
-  podModulePrefix: config.podModulePrefix,
-  Resolver: Resolver
+App.Router.map(function(){
+  this.route('about');
+  this.route('credits');
 });
+
+Ember.MODEL_FACTORY_INJECTIONS = true;
 
 loadInitializers(App, config.modulePrefix);
 
